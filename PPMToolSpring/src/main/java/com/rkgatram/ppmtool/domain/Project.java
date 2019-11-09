@@ -1,4 +1,4 @@
-package com.hcl.ppmtool.domain;
+package com.rkgatram.ppmtool.domain;
 
 /**
  * Created by ravikumar.g
