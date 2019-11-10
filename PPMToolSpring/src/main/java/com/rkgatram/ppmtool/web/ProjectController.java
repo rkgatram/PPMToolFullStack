@@ -15,6 +15,7 @@ import javax.validation.Valid;
  * Created by ravikumar.g
  * Date 2019-11-09
  */
+@CrossOrigin
 @RestController
 @RequestMapping("/api/project")
 public class ProjectController {
